@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Desktop\activate\CPP\baekjoon\11582_chicken\11582_chicken\main.cpp(35,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  11582_chicken.vcxproj -> D:\Desktop\activate\CPP\baekjoon\11582_chicken\11582_chicken\Debug\11582_chicken.exe
